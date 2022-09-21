@@ -10,7 +10,7 @@ export default class SpaceCraftScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Tela das Naves Espaciais!</Text>
+                <Text>Tela de Naves Espaciais!</Text>
             </View>
         )
     }
